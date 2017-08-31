@@ -1,0 +1,25 @@
+{
+  "name": "minecraft-ftb-jar-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkrmc12/minecraft-ftb-jar-extractor.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkrmc12/minecraft-ftb-jar-extractor/issues"
+  },
+  "homepage": "https://github.com/jkrmc12/minecraft-ftb-jar-extractor#readme",
+  "dependencies": {
+    "burger-extractor": "github:prismarinejs/burger-extractor",
+    "commander": "^2.11.0",
+    "git-clone": "^0.1.0",
+    "python-shell": "^0.4.0"
+  }
+}
